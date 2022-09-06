@@ -1,0 +1,9 @@
+C:\Users\0030482111029\Downloads\app\Pvolume\Pvolume\bin\Debug\Pvolume.exe.config
+C:\Users\0030482111029\Downloads\app\Pvolume\Pvolume\bin\Debug\Pvolume.exe
+C:\Users\0030482111029\Downloads\app\Pvolume\Pvolume\bin\Debug\Pvolume.pdb
+C:\Users\0030482111029\Downloads\app\Pvolume\Pvolume\obj\Debug\Pvolume.csprojResolveAssemblyReference.cache
+C:\Users\0030482111029\Downloads\app\Pvolume\Pvolume\obj\Debug\Pvolume.Form1.resources
+C:\Users\0030482111029\Downloads\app\Pvolume\Pvolume\obj\Debug\Pvolume.Properties.Resources.resources
+C:\Users\0030482111029\Downloads\app\Pvolume\Pvolume\obj\Debug\Pvolume.csproj.GenerateResource.Cache
+C:\Users\0030482111029\Downloads\app\Pvolume\Pvolume\obj\Debug\Pvolume.exe
+C:\Users\0030482111029\Downloads\app\Pvolume\Pvolume\obj\Debug\Pvolume.pdb
