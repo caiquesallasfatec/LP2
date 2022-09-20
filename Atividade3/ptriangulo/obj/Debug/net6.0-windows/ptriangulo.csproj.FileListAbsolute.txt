@@ -1,0 +1,17 @@
+C:\Users\Caique\projetos\lpII\LP2\Atividade3\ptriangulo\obj\Debug\net6.0-windows\ptriangulo.csproj.AssemblyReference.cache
+C:\Users\Caique\projetos\lpII\LP2\Atividade3\ptriangulo\obj\Debug\net6.0-windows\ptriangulo.Form1.resources
+C:\Users\Caique\projetos\lpII\LP2\Atividade3\ptriangulo\obj\Debug\net6.0-windows\ptriangulo.csproj.GenerateResource.cache
+C:\Users\Caique\projetos\lpII\LP2\Atividade3\ptriangulo\obj\Debug\net6.0-windows\ptriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caique\projetos\lpII\LP2\Atividade3\ptriangulo\obj\Debug\net6.0-windows\ptriangulo.AssemblyInfoInputs.cache
+C:\Users\Caique\projetos\lpII\LP2\Atividade3\ptriangulo\obj\Debug\net6.0-windows\ptriangulo.AssemblyInfo.cs
+C:\Users\Caique\projetos\lpII\LP2\Atividade3\ptriangulo\obj\Debug\net6.0-windows\ptriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Caique\projetos\lpII\LP2\Atividade3\ptriangulo\bin\Debug\net6.0-windows\ptriangulo.exe
+C:\Users\Caique\projetos\lpII\LP2\Atividade3\ptriangulo\bin\Debug\net6.0-windows\ptriangulo.deps.json
+C:\Users\Caique\projetos\lpII\LP2\Atividade3\ptriangulo\bin\Debug\net6.0-windows\ptriangulo.runtimeconfig.json
+C:\Users\Caique\projetos\lpII\LP2\Atividade3\ptriangulo\bin\Debug\net6.0-windows\ptriangulo.dll
+C:\Users\Caique\projetos\lpII\LP2\Atividade3\ptriangulo\bin\Debug\net6.0-windows\ptriangulo.pdb
+C:\Users\Caique\projetos\lpII\LP2\Atividade3\ptriangulo\obj\Debug\net6.0-windows\ptriangulo.dll
+C:\Users\Caique\projetos\lpII\LP2\Atividade3\ptriangulo\obj\Debug\net6.0-windows\refint\ptriangulo.dll
+C:\Users\Caique\projetos\lpII\LP2\Atividade3\ptriangulo\obj\Debug\net6.0-windows\ptriangulo.pdb
+C:\Users\Caique\projetos\lpII\LP2\Atividade3\ptriangulo\obj\Debug\net6.0-windows\ptriangulo.genruntimeconfig.cache
+C:\Users\Caique\projetos\lpII\LP2\Atividade3\ptriangulo\obj\Debug\net6.0-windows\ref\ptriangulo.dll
